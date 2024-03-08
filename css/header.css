@@ -1,0 +1,17 @@
+.header {
+    background-color: rgb(27, 54, 111);
+    border-radius: 2px;
+    height: auto;
+    box-shadow: 5px 5px 5px grey;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: xxx-large;
+    font-weight: 1000;
+    margin-bottom: 10px;
+}
+
+.header__title {
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+    font-size: 40pt;
+}

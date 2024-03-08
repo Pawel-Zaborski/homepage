@@ -1,0 +1,37 @@
+
+.table {
+    border-collapse: collapse;
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+    background-color: rgb(245, 245, 249);
+}
+
+.table__padding {
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+}
+
+.table__tableHeader {
+    background-color: rgb(42, 152, 249);
+    color: rgb(19, 8, 8);
+    font-weight: normal;
+}
+
+.table__tableCell {
+    border-collapse: collapse;
+    border: 2px solid rgb(226, 226, 226);
+    padding: 10px;
+    text-align: center;
+}
+
+.table__tableRow:nth-child(even) {
+    background: #545151;
+}
+
+.table__tableRow:hover {
+    background: rgb(42, 152, 249);
+}
+
+.table__paddingT {
+    padding: 10px;
+}

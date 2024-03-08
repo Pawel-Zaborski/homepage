@@ -1,0 +1,36 @@
+.nav {
+    border: 1px solid rebeccapurple;
+    background-color: rgb(196, 218, 228);
+    border-radius: 2px;
+    height: auto;
+    box-shadow: 5px 5px 5px grey;
+    text-align: center;
+    color: rgb(55, 42, 30);
+    font-size: large;
+    font-weight: 50;
+    margin-bottom: 10px;
+}
+
+.nav__uLink {
+    text-decoration: none;
+    color: rgb(27, 54, 111);    
+}
+
+.nav__list {
+    list-style-type: none;
+    color: crimson;
+    text-align: left;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.nav__img {
+    
+    margin-right: 5px;  
+    max-width: 100%;
+    height: auto;
+}
+
+.nav__img__td {
+    border-collapse: collapse;
+}

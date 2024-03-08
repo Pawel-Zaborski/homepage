@@ -1,0 +1,11 @@
+
+.button{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    width: 150px;
+    border-radius: 3px;
+    color: white;
+    border-color: white;
+    background-color: rgb(27, 54, 111);
+    margin: auto;    
+}
